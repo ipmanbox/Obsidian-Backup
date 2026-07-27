@@ -1,0 +1,18 @@
+AI影片模型 seedance 2.0模型
+
+現在各家ai生成網站的都有 seedance 2.0這模型
+
+目前最推的是: higgsfield ai 幾乎不擋真人
+ 
+
+---------------------------------------------------------------------------------------------
+圖片提示詞: 上傳建築圖
+
+序號,分鏡主題,提示詞內容 (Prompt) 01,場景啟程,"Extreme wide shot of a futuristic white honeycomb architecture by the sea, morning mist over the harbor, sunlight hitting the geometric facets, serene water surface." 02,人物初見,"Low-angle shot of a model standing against a hexagonal mesh wall, wearing a structured 3D-printed white dress, sharp chin line, soft oceanic glow on skin." 03,觸感細節,"Macro shot of fingertips tracing the edge of a white hexagonal architectural panel, contrast between soft skin and cold matte texture, high detail." 04,光影交織,"Mid shot of the model with sunlight filtering through a honeycomb structure, creating intricate geometric shadows on her face and garment, dramatic lighting." 05,產品特寫,"Close-up of a geometric silver earring shaped like a stylized honeycomb, reflecting the blue harbor water, resting on a matte white surface." 06,動態流動,"A sheer silk scarf with hexagonal patterns catching a sea breeze, swirling in front of the architectural background, high-speed motion blur." 07,空間交互,"The model leaning against a curved white pillar, looking towards the horizon, the repetitive geometry of the building creating a sense of infinity." 08,宏觀材質,"Extreme macro shot of the 3D-printed fabric texture, resembling a mix of sea coral and hexagonal architectural mesh, iridescent white shimmering." 09,情感核心,"Close-up of the model's eyes, reflecting the sparkling harbor waves and the white structure, calm and visionary expression, 8k skin texture." 10,超現實意象,"The hexagonal panels of the building beginning to float and orbit around the model like digital petals, surreal fashion art, ethereal atmosphere." 11,靜物排版,"Flat lay: A geometric clutch bag, a pair of modernist sunglasses, and a piece of white coral on a harbor-blue silk cloth, clean and balanced." 12,品牌終章,"The model's silhouette walking into a tunnel of light formed by hexagonal structures, bright white void at the end, minimalist and powerful."
+------------------------------------------------------------------------------------------------------------------------
+
+AI 動態影音提示詞
+
+
+將 <<<image_1>>> 的每個影格進行動畫處理並串聯起來。這是一支高端品牌新品的預告片。帶有自然的攝影機晃動感。主角是一位年輕的台灣女性。背景音樂需符合奢侈品牌廣告的風格。
+
