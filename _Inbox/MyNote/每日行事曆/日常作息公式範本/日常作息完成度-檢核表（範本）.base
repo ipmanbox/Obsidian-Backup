@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.tags.contains("日常作息範本")
+formulas:
+  完成度: |-
+    (
+      letDone = (
+        if(file.properties["01"],1,0) + if(file.properties["02"],1,0) + if(file.properties["03"],1,0) +
+        if(file.properties["04"],1,0) + if(file.properties["05"],1,0) + if(file.properties["06"],1,0) +
+        if(file.properties["07"],1,0) + if(file.properties["08"],1,0) + if(file.properties["09"],1,0) +
+        if(file.properties["10"],1,0) + if(file.properties["11"],1,0) + if(file.properties["12"],1,0) +
+        if(file.properties["13"],1,0) + if(file.properties["14"],1,0) + if(file.properties["15"],1,0) +
+        if(file.properties["16"],1,0) + if(file.properties["17"],1,0) + if(file.properties["18"],1,0) +
+        if(file.properties["19"],1,0) + if(file.properties["20"],1,0) + if(file.properties["21"],1,0) +
+        if(file.properties["22"],1,0) + if(file.properties["23"],1,0) + if(file.properties["24"],1,0) +
+        if(file.properties["25"],1,0) + if(file.properties["26"],1,0) + if(file.properties["27"],1,0) +
+        if(file.properties["28"],1,0) + if(file.properties["29"],1,0) + if(file.properties["30"],1,0) +
+        if(file.properties["31"],1,0)
+      );
+      letPercent = letDone / 31 * 100;
+      display = letDone + " / 31 (" + (floor(letPercent * 10 + 0.5) / 10) + "%)";
+      display
+    )
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - formula.完成度

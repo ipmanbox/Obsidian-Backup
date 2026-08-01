@@ -1,0 +1,73 @@
+# 任務：生成 [主題描述] 的專業 Landing Page（照 [技術與美學選項] 實作）
+
+---
+
+## 填寫參數（僅需填寫中括弧內容）
+
+1. **主題描述 (Topic Description)**：
+   - [在此輸入描述，例如：咖啡與輕食早午餐、極簡手工皮件...]
+
+2. **技術與美學選項 (Tech & Aesthetics Option)**：
+   - [請選擇：A / B / C / D / E] (詳見下方)
+
+---
+
+## 角色
+
+你是全球首席前端網頁設計專家及頂尖的創意總監。你的目標是根據用戶提供的「主題描述」，自動推導品牌形象、文案與視覺策略，並結合選定的「技術與美學選項」，生成一個單檔、極具消費衝動、視覺震撼且**具備完美響應式設計 (Responsive Design)** 的 index.html。
+
+---
+
+## 技術與美學選項定義 (Tech & Aesthetics Options)
+
+### A. Essentials (基礎動態版)
+- **技術與工具**：HTML5, CSS3, Vanilla JS, Tailwind CSS。
+- **特點**：利用 CSS Animations 實作**流暢滾動進場動畫**，高品質專業排版，極速加載。
+
+### B. Modern Brand (現代品牌版)
+- **技術與工具**：Tailwind CSS, GSAP (核心), Iconify-icon。
+- **特點**：按鈕磁吸效果 (Magnetic Pull)、逐字浮現動畫、**自訂滑鼠游標 (帶有 mix-blend-mode: difference 互動效果)**、1px 邊框光束。
+
+### C. Interaction Pro (高階互動版)
+- **技術與工具**：Tailwind CSS, GSAP (ScrollTrigger), Iconify, Anime.js。
+- **特點**：手電筒光暈、無限跑馬燈、Sonar 聲納脈衝、垂直文字剪裁滑動、**進階磨砂玻璃 / 毛玻璃 (Glassmorphism) 質感排版**。
+
+### D. WebGL Visualist (WebGL 視覺版)
+- **技術與工具**：Tailwind CSS, Three.js / Curtains.js, GSAP。
+- **特點**：全螢幕圖片「**4 欄位切片 (4-column clip)**」下拉、液態轉場 (Liquid Wipe)、流體互動、**全域高品質高品質噪點質感背景 (Noise Texture)**。
+
+### E. Awwwards Extreme (極致電影感版) 🚀
+- **技術與工具**：Tailwind CSS, Advanced Three.js, Shaders, Physics Engine。
+- **特點**：4 垂直欄位「**錯位捲動 (Staggered Scroll)**」、**動態模糊尾跡 (Motion Blur)**、視覺回彈與全域高品質噪點。
+
+---
+
+## 自動推導與規範（必須嚴格遵守）
+
+- **品牌化策略 (Autonomous Branding)**：
+  - 身為創意總監，根據「主題描述」自動擬定：質感品牌名稱、核心價值主張 (3項)、磁吸力 CTA 文案。
+
+- **圖標與資產規範 (Assets & Icons)**：
+  - **圖標**：統一高品質 Iconify 套件（如 Solar/Lucide），使用 `<iconify-icon>` 由 CDN 載入。
+  - **合作 Logo**：使用 `Iconify Simple Icons` 並自動挑選 4-5 個與主題相關的全球知名品牌。
+  - **真實素材**：嚴禁佔位符。圖片與人物頭像必須使用 Unsplash 真實高清網址。
+
+- **通用 UI 指標 (UI Standards)**：
+  - **視覺風格**：自動推導最契合的色調組合與字體策略，建立**統一的高級圓角系統 (Corner Radius System)**。
+  - **響應式配置**：必須確保在手機、平板與桌機上均有完美的視覺呈現，文字與佈局需隨螢幕寬度自動優化。
+  - 全站加入「垂直容器參考線」、數字編號裝飾、及多層次視差深度。
+  - **細節質感**：全站套用輕微的**全域雜訊紋理 (Global Grain/Noise)** 以提升電影感。
+  - 動態品質須具備 GPU 驅動的物理感，使其感覺像是一場電影等級的技術 Demo。
+  - **自訂游標**：除 A 選項外，應預設包含與背景互動的自訂游標特效。
+
+---
+
+- **實作與技術規範 (Implementation & Tech Specs)**：
+  - **輸出路徑**：直接輸出完整、單檔、可直接運行的 **index.html**（含所有 CSS/JS）。
+  - **靜默執行**：不要詢問任何確認資訊。請根據 [主題描述] 與選定的 [技術與美學選項]，直接開始這場最高級別的視覺實作。
+
+---
+
+## 執行指令
+
+請讀取以上規範，開始生成令人驚艷的專業 Landing Page。

@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.tags.contains("剪映課程")
+formulas:
+  未命名: ""
+  未命名 2: ""
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - 剪映介面說明
+      - 如何導入檔案
+      - 如何導出檔案
+      - formula.未命名 2
+  - type: table
+    name: 檢視

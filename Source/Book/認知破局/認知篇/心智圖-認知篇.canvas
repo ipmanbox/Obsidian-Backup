@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"8caa5e2b97e0a3e4","type":"file","file":"Source/Book/認知破局/認知篇/01天道酬勤是世界上最大的謊言.md","x":-200,"y":80,"width":400,"height":400},
+		{"id":"34aa10ace59b3c59","type":"file","file":"Source/Book/認知破局/認知篇/02解題思路比答案重要一萬倍.md","x":-200,"y":574,"width":400,"height":400},
+		{"id":"e11c63da6b3e41ee","type":"file","file":"Source/Book/認知破局/認知篇/03拉高一個維次，用未來眼光看現在.md","x":-200,"y":1080,"width":400,"height":400},
+		{"id":"d1def9b93a1d2600","type":"file","file":"Source/Book/認知破局/認知篇/04別小瞧［非主流］，任何事物崛起，都是從邊緣開始.md","x":367,"y":1080,"width":400,"height":400},
+		{"id":"a50ae10a5d845632","type":"file","file":"Source/Book/認知破局/認知篇/05商業的本質是什麼？.md","x":920,"y":1080,"width":400,"height":400},
+		{"id":"5573efdf3af37936","type":"file","file":"Source/Book/認知破局/認知篇/06一切商業的成功，源於對消費者需求的洞察.md","x":920,"y":574,"width":400,"height":400},
+		{"id":"f503e4313ea5b0cf","type":"file","file":"Source/Book/認知破局/認知篇/07這才是消費的真相.md","x":920,"y":80,"width":400,"height":400},
+		{"id":"12dce45130f096e5","type":"file","file":"Source/Book/認知破局/認知篇/08掌握全局系統的思維，才能看到本質，看清趨勢.md","x":367,"y":80,"width":400,"height":400},
+		{"id":"7357856365956471","x":367,"y":574,"width":400,"height":400,"type":"text","text":"認知破局-認知篇"}
+	],
+	"edges":[
+		{"id":"7f9bf6aa0b6f2ebd","fromNode":"12dce45130f096e5","fromSide":"bottom","toNode":"7357856365956471","toSide":"top"},
+		{"id":"810de3965df86cb5","fromNode":"8caa5e2b97e0a3e4","fromSide":"right","toNode":"7357856365956471","toSide":"left"},
+		{"id":"063efca3c3866be5","fromNode":"34aa10ace59b3c59","fromSide":"right","toNode":"7357856365956471","toSide":"left"},
+		{"id":"b87da84e1c830064","fromNode":"e11c63da6b3e41ee","fromSide":"right","toNode":"7357856365956471","toSide":"left"},
+		{"id":"17a542df05a89d86","fromNode":"a50ae10a5d845632","fromSide":"left","toNode":"7357856365956471","toSide":"right"},
+		{"id":"4b9a07adabc60116","fromNode":"5573efdf3af37936","fromSide":"left","toNode":"7357856365956471","toSide":"right"},
+		{"id":"cd3ca8468882c27e","fromNode":"f503e4313ea5b0cf","fromSide":"left","toNode":"7357856365956471","toSide":"right"},
+		{"id":"120702b4d1989ea3","fromNode":"d1def9b93a1d2600","fromSide":"top","toNode":"7357856365956471","toSide":"bottom"}
+	]
+}

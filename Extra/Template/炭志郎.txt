@@ -1,0 +1,17 @@
+Tools used:https://higgsfield.ai/ai-video
+
+Video model: Seedance 2.0
+
+---------------------------------------------------------------------------------------------
+
+prompt:
+
+A hyper-realistic third-person mobile phone recording creates a cinematic, dark fantasy forest set atmosphere. The footage resembles a crew member standing at the edge of a film set, secretly recording a live-action fight scene in landscape mode. In the misty forest, the ground is wet and muddy, littered with fallen leaves and puddles. Cameras, light stands, sound poles, clapperboards, and crew members are visible in the background, creating a strong sense of realism.
+
+A young, dark-haired Asian swordsman stands on the left, wearing a green and black plaid tunic, gripping his sword with both hands, his center of gravity low, his gaze focused. Another young, blond swordsman stands on the right, wearing a yellow triangular-patterned fabric jacket, crouching with his sword, ready to draw and charge. The phone screen shakes slightly, the autofocus shifting back and forth between the two.
+
+The dark-haired swordsman slowly inhales, and transparent, glowing water begins to condense on his blade. The water grows thicker, swirling along the blade, gradually forming a highly realistic, translucent water dragon. The water dragon wasn't cartoonish; it resembled real, high-pressure water compressed into a dragon shape, complete with a dragon's head, spine, and flowing body. Water droplets splashed onto the phone's camera lens, refracting moonlight and studio lights.
+
+The blond swordsman suddenly lunged forward, the force sending wet mud and fallen leaves flying. His blade erupted with blinding blue-white arcs of real electricity, like high-voltage current piercing humid air. The light illuminated his face, his yellow coat, the surrounding tree trunks, and the mist. The phone's camera briefly overexposed due to the intense light before refocusing.
+
+The two clashed rapidly in the center of the frame. The black-haired swordsman unleashed a massive, translucent water dragon, its mouth gaping open as it lunged forward; the blond swordsman slashed out with a blue-white lightning blade, colliding head-on. The water dragon and lightning collided violently, illuminating the interior of the water with blue-white electric light. The transparent water exploded into droplets, steam, and swirling water curtains. Mud, leaves, wood chips, and sparks flew everywhere, the shockwave pushing the low mist on the ground to the sides, and creating realistic ripples in the puddles. Finally, the steam and electric arcs slowly dissipated, and the two swordsmen, their blades clashing, stopped, maintaining their standoff. The phone screen shook slightly from the impact, and the person filming instinctively took a half-step back. The clapperboard and camera briefly appeared at the edge of the frame. The overall image maintains the quality of a Hollywood live-action blockbuster, IMAX cinematic quality, realistic photography, dark fantasy, 8K ultra-high definition, without any anime or game-like feel.。

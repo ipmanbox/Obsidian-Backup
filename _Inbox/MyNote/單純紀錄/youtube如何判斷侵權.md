@@ -1,0 +1,2 @@
+YouTube怎麼判斷影片內含侵權內容？解析Content ID 內容識別系統的原理及功能
+https://www.techbang.com/posts/21674-how-does-youtube-catch-your-movie-contains-copyrighted-music-and-video-content-parse-the-content-id-recognition-system-theory-and-function-of

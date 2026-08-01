@@ -1,0 +1,19 @@
+使用dreamina AI 
+
+AI影片模型 seedance 2.0模型；小弟我合作廠商,就由小弟我內部測試分享吧 
+
+國際版還未開放, (可以先用大陸版即夢AI"小雲雀'豆包"剪映) 都需要"大陸抖音登入"
+
+     
+如果人臉無法用 ,就先把人臉人物先用香蕉或GPT 轉繪成 "素描風格" 水彩風格"就可以生成了
+
+或者遮擋一半人臉, 
+
+------------------------------------------------------------------------------------------------------
+提示詞:
+
+15s cinematic disaster film shot on ARRI Alexa 65. A colossal cat
+
+@Image1
+
+ emerges from the ocean behind a bustling suspension bridge. The camera tilts up as the giant cat raises its massive paw. It forcefully strikes the bridge, causing a massive structural collapse with fiery explosions, sparks, and billowing smoke as cars plummet. The camera cuts to a close-up of the cat's face. It opens its mouth, revealing a menacing, glowing blue energy forming inside. The lighting is bright natural daylight contrasting with chaotic smoke. The pacing is intense and dramatic, emphasizing epic scale and catastrophic destruction.

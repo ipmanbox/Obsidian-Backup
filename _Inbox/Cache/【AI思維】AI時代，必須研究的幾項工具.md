@@ -29,6 +29,16 @@ https://tinyhumans.ai/openhuman
 
 
 
+- Open Minis
+你的私有裝置端 AI 智能體
+
+一款超越對話框的裝置端 AI 智能體。它能自主行動——瀏覽網頁、讀取健康資料、管理行程、控制智慧家庭、自動化複雜任務。一切都在你的裝置上私密完成。支援 iOS、Android、macOS 和 visionOS。
+
+https://openminis.app/?fbclid=IwT01FWATVFvtwZG9mBWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHmw5mllbu9w_J1YDbN7gb8GzdO-Sa_T9aOmiJ8Q7PoOebTq1xVipksHgFlhS_aem_JxvmjbpAFWhUTCIEhadQoA
+
+
+
+
 ●免費AI大模型:
 [[［AI運用］免費AI大模型的API]]
 
