@@ -1,0 +1,17 @@
+filters:
+  or:
+    - or:
+        - file.tags.contains("親子教育")
+formulas:
+  未命名: ""
+  未命名 2: ""
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.tags
+      - file.backlinks
+      - file.links
+      - tags
+    sort: []
