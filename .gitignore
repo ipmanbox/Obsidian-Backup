@@ -1,0 +1,23 @@
+# 排除所有點開頭資料夾（已包含 .obsidian、.smart-env 等）
+.*
+
+# 唯一放行 gitignore
+!.gitignore
+
+# 回收站
+.trash/
+
+# 跨平台系統碎屑與暫存檔
+desktop.ini
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# 自定義敏感檔案排除
+_Inbox/MyNote/帳號密碼/
+_Inbox/MyNote/電玩遊戲/
+_Inbox/MyNote/兩性關係/性知識/
